@@ -1129,8 +1129,8 @@
         {
             "atomType": "Molecule",
             "name": "Vertical",
-            "x": 0.41802492809204217,
-            "y": 0.8102409638554217,
+            "x": 0.3911792905081496,
+            "y": 0.8162650602409638,
             "uniqueID": "bb9fa59f-4a16-4983-9fe8-a317fd99e356",
             "ioValues": [
                 {
@@ -1158,8 +1158,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Rectangle-Rounded",
-                    "x": 0.14285714285714285,
-                    "y": 0.3644578313253012,
+                    "x": 0.15244487056567593,
+                    "y": 0.3463855421686747,
                     "uniqueID": 1745208616547,
                     "ioValues": [
                         {
@@ -1172,7 +1172,7 @@
                         },
                         {
                             "name": "Radius",
-                            "ioValue": 25
+                            "ioValue": 30
                         }
                     ],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1231,7 +1231,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 50
+                                    "ioValue": 60
                                 }
                             ],
                             "description": "Creates a new circle."
@@ -1245,7 +1245,7 @@
                             "ioValues": [
                                 {
                                     "name": "R",
-                                    "ioValue": 25
+                                    "ioValue": 30
                                 }
                             ],
                             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1264,7 +1264,7 @@
                                 },
                                 {
                                     "name": "R",
-                                    "ioValue": 25
+                                    "ioValue": 30
                                 }
                             ],
                             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1283,11 +1283,11 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 0
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 25
+                                    "ioValue": 20
                                 },
                                 {
                                     "name": "zDist",
@@ -1327,7 +1327,7 @@
                                 },
                                 {
                                     "name": "R",
-                                    "ioValue": 25
+                                    "ioValue": 30
                                 }
                             ],
                             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1346,7 +1346,7 @@
                                 },
                                 {
                                     "name": "R",
-                                    "ioValue": 25
+                                    "ioValue": 30
                                 }
                             ],
                             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -1365,11 +1365,11 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 0
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -25
+                                    "ioValue": -20
                                 },
                                 {
                                     "name": "zDist",
@@ -1391,11 +1391,11 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 0
+                                    "ioValue": 5
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 25
+                                    "ioValue": 20
                                 },
                                 {
                                     "name": "zDist",
@@ -1417,11 +1417,11 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 0
+                                    "ioValue": 5
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -25
+                                    "ioValue": -20
                                 },
                                 {
                                     "name": "zDist",
@@ -1443,7 +1443,7 @@
                                 },
                                 {
                                     "name": "R",
-                                    "ioValue": 25
+                                    "ioValue": 30
                                 }
                             ],
                             "description": "Defines a mathematical equation. Edit the output field to add or remove inputs.",
@@ -2346,7 +2346,7 @@
             "atomType": "Molecule",
             "name": "Molecule",
             "x": 0.37200383509108337,
-            "y": 0.6234939759036144,
+            "y": 0.6054216867469879,
             "uniqueID": "5450e037-7edd-43da-b8eb-8c5e6f0477df",
             "ioValues": [
                 {
@@ -2997,13 +2997,13 @@
                 }
             ],
             "fileTypeVersion": 1,
-            "compiledBom": {}
+            "compiledBom": []
         },
         {
             "atomType": "Molecule",
             "name": "Horizontal",
-            "x": 0.3691275167785235,
-            "y": 0.41867469879518077,
+            "x": 0.37775647171620325,
+            "y": 0.45180722891566266,
             "uniqueID": "1f2cb0d9-1d8d-4e28-8929-8623e63a666f",
             "ioValues": [
                 {
