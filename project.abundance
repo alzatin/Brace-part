@@ -34,8 +34,8 @@
         {
             "atomType": "Molecule",
             "name": "Horizontal",
-            "x": 0.18216682646212845,
-            "y": 0.3132530120481927,
+            "x": 0.18408437200383507,
+            "y": 0.25903614457831325,
             "uniqueID": "15b44c35-4289-4555-ac8a-2a930e0b2ff7",
             "ioValues": [
                 {
@@ -63,8 +63,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Rectangle-Rounded",
-                    "x": 0.13624338624338625,
-                    "y": 0.4233983286908078,
+                    "x": 0.14381591562799617,
+                    "y": 0.40963855421686746,
                     "uniqueID": 1745207799942,
                     "ioValues": [
                         {
@@ -623,8 +623,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M8-Bolt",
-                    "x": 0.3108465608465608,
-                    "y": 0.8551532033426184,
+                    "x": 0.17833173537871524,
+                    "y": 0.8463855421686747,
                     "uniqueID": 1745208329715,
                     "ioValues": [],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -899,8 +899,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 0.3055555555555555,
-                    "y": 0.3064066852367688,
+                    "x": 0.44966442953020136,
+                    "y": 0.2469879518072289,
                     "uniqueID": 1745208402167,
                     "ioValues": [
                         {
@@ -1127,8 +1127,8 @@
         {
             "atomType": "Molecule",
             "name": "Vertical",
-            "x": 0.18386243386243387,
-            "y": 0.7075208913649026,
+            "x": 0.18791946308724833,
+            "y": 0.7048192771084337,
             "uniqueID": "bb9fa59f-4a16-4983-9fe8-a317fd99e356",
             "ioValues": [
                 {
@@ -1156,8 +1156,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Rectangle-Rounded",
-                    "x": 0.1322751322751323,
-                    "y": 0.37047353760445684,
+                    "x": 0.14285714285714285,
+                    "y": 0.3644578313253012,
                     "uniqueID": 1745208616547,
                     "ioValues": [
                         {
@@ -2343,8 +2343,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.31547619047619047,
-            "y": 0.3519553072625698,
+            "x": 0.3231064237775647,
+            "y": 0.3885542168674699,
             "uniqueID": "57913276-b7cb-40cb-a359-09d0cb2257e1",
             "ioValues": [
                 {
@@ -2358,32 +2358,6 @@
                 {
                     "name": "yDist",
                     "ioValue": 0
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 0
-                }
-            ],
-            "description": "Moves a shape laterally in X, Y, Z."
-        },
-        {
-            "atomType": "Move",
-            "name": "Move",
-            "x": 0.28835978835978837,
-            "y": 0.5933147632311978,
-            "uniqueID": "031fcea9-1b2a-4c9e-bb90-455c7bfcc7d6",
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": "bb9fa59f-4a16-4983-9fe8-a317fd99e356"
-                },
-                {
-                    "name": "xDist",
-                    "ioValue": 0
-                },
-                {
-                    "name": "yDist",
-                    "ioValue": 160
                 },
                 {
                     "name": "zDist",
@@ -3016,7 +2990,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "031fcea9-1b2a-4c9e-bb90-455c7bfcc7d6"
+                    "ioValue": ""
                 },
                 {
                     "name": "x-axis degrees",
@@ -3073,25 +3047,11 @@
             "ap2ID": "50729845-ce52-4b42-8697-785e46d73bcb"
         },
         {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": "bb9fa59f-4a16-4983-9fe8-a317fd99e356",
-            "ap2ID": "031fcea9-1b2a-4c9e-bb90-455c7bfcc7d6"
-        },
-        {
             "ap1Name": "geometry",
             "ap2Name": "Shape 2",
             "ap2Primary": false,
             "ap1ID": "57913276-b7cb-40cb-a359-09d0cb2257e1",
             "ap2ID": "e06f99be-4ea5-41c3-8681-7919fc1cbc4d"
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": "031fcea9-1b2a-4c9e-bb90-455c7bfcc7d6",
-            "ap2ID": "fdcd2d62-8633-46ed-afe8-f0f15a1bb28f"
         },
         {
             "ap1Name": "geometry",
