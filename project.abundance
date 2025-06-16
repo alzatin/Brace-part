@@ -26,7 +26,7 @@
             "atomType": "Input",
             "name": "WoodThickness",
             "x": 0.04,
-            "y": 0.6908077994428969,
+            "y": 0.46987951807228917,
             "uniqueID": "1f162146-5362-4dec-8c0a-8cfd080a1437",
             "ioValues": [],
             "description": "Adds an input to the parent molecule. If the parent molecule is the top level of the project then the input will be available when the project is shared or imported into another project. Name is editable",
