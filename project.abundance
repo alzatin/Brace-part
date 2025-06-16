@@ -1,6 +1,6 @@
 {
     "atomType": "Molecule",
-    "name": "Brace",
+    "name": "Brace-part",
     "x": 0.33940556088207097,
     "y": 0.17469879518072287,
     "uniqueID": "2ebe6ac8-b2b5-476d-9f64-50fb8fa8465b",
@@ -34,8 +34,8 @@
         {
             "atomType": "Molecule",
             "name": "Horizontal",
-            "x": 0.18125854993160054,
-            "y": 0.32228915662650603,
+            "x": 0.18216682646212845,
+            "y": 0.3132530120481927,
             "uniqueID": "15b44c35-4289-4555-ac8a-2a930e0b2ff7",
             "ioValues": [
                 {
