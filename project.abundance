@@ -1161,7 +1161,7 @@
             "ioValues": [
                 {
                     "name": "Width",
-                    "ioValue": 50
+                    "ioValue": 16
                 },
                 {
                     "name": "Height",
@@ -1280,7 +1280,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -17
                         },
                         {
                             "name": "yDist",
@@ -1320,7 +1320,7 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 50
+                            "ioValue": 16
                         },
                         {
                             "name": "R",
@@ -1362,7 +1362,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -17
                         },
                         {
                             "name": "yDist",
@@ -1388,7 +1388,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 17
                         },
                         {
                             "name": "yDist",
@@ -1414,7 +1414,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 17
                         },
                         {
                             "name": "yDist",
@@ -1436,7 +1436,7 @@
                     "ioValues": [
                         {
                             "name": "W",
-                            "ioValue": 50
+                            "ioValue": 16
                         },
                         {
                             "name": "R",
@@ -1725,7 +1725,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 50
+                    "ioValue": 16
                 },
                 {
                     "name": "Radius",
@@ -1817,7 +1817,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 50
+                            "ioValue": 16
                         },
                         {
                             "name": "R",
@@ -1844,7 +1844,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -17
                         },
                         {
                             "name": "zDist",
@@ -1899,7 +1899,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 50
+                            "ioValue": 16
                         },
                         {
                             "name": "R",
@@ -1926,7 +1926,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 17
                         },
                         {
                             "name": "zDist",
@@ -1952,7 +1952,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -17
                         },
                         {
                             "name": "zDist",
@@ -1978,7 +1978,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 17
                         },
                         {
                             "name": "zDist",
@@ -2273,7 +2273,22 @@
             "compiledBom": []
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Width",
+            "ap2Primary": false,
+            "ap1ID": "1f162146-5362-4dec-8c0a-8cfd080a1437",
+            "ap2ID": "08fdda8a-9ed3-4360-951d-d7cbb90a6ed5"
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Height",
+            "ap2Primary": false,
+            "ap1ID": "1f162146-5362-4dec-8c0a-8cfd080a1437",
+            "ap2ID": "8095bf9b-9473-4b8a-b424-2a7dc37bb1bc"
+        }
+    ],
     "fileTypeVersion": 1,
     "compiledBom": [],
     "filetypeVersion": 1
